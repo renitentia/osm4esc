@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-772' action='modify' visible='true' lat='47.06578931408969' lon='15.44218244116898'>
+    <tag k='name' v='Zentrale' />
+    <tag k='start_date' v='22.8.2012' />
+    <tag k='text' v='Beispieltext' />
+  </node>
+</osm>
