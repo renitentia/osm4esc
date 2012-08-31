@@ -18,4 +18,13 @@ steps for further contributing
 	* git commit 
 	* git push
 
-	
+Installation instructions on Windows
+	* install JOSM http://josm.openstreetmap.de/wiki/Download
+	* install TortoiseGIT http://code.google.com/p/tortoisegit/wiki/Download
+	* install http://code.google.com/p/msysgit/downloads/list take full installer for windows
+	* Install PuTTY http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html the full installer for everything
+	* Create a folder for the project
+	* generate a SSH key with PuTTygen
+		* safe the public and private key to the project folder
+		* add the string in the upper window to github
+	* 
