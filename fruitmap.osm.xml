@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-49' action='modify' visible='true' lat='47.07065024018231' lon='15.425627902784296' />
+  <node id='-47' action='modify' visible='true' lat='47.07070279363082' lon='15.425531452591319' />
+  <node id='-45' action='modify' visible='true' lat='47.07073344978517' lon='15.425396422321151' />
+  <node id='-43' action='modify' visible='true' lat='47.07067213745882' lon='15.425441432411207' />
+  <node id='-41' action='modify' visible='true' lat='47.0706274091813' lon='15.425450068855666' />
+  <node id='-39' action='modify' visible='true' lat='47.07056547425523' lon='15.425459162267062' />
+  <node id='-37' action='modify' visible='true' lat='47.07047257173118' lon='15.425486442501263' />
+  <node id='-35' action='modify' visible='true' lat='47.07039205607934' lon='15.425513722735465' />
+  <node id='-33' action='modify' visible='true' lat='47.07036728200816' lon='15.425659217317863' />
+  <node id='-30' action='modify' visible='true' lat='47.07059644172726' lon='15.425631937083663' />
+  <node id='-26' action='modify' visible='true' lat='47.070447099698924' lon='15.425660307081806' />
   <node id='-25' action='modify' visible='true' lat='47.06729997981539' lon='15.435421066610958'>
     <tag k='natural' v='tree' />
     <tag k='species' v='elderberry' />
@@ -30,4 +41,21 @@
     <tag k='start_date' v='22.8.2012' />
     <tag k='text' v='Beispieltext' />
   </node>
+  <way id='-31' action='modify' visible='true'>
+    <nd ref='-30' />
+    <nd ref='-26' />
+    <nd ref='-33' />
+    <nd ref='-35' />
+    <nd ref='-37' />
+    <nd ref='-39' />
+    <nd ref='-41' />
+    <nd ref='-43' />
+    <nd ref='-45' />
+    <nd ref='-47' />
+    <nd ref='-49' />
+    <nd ref='-30' />
+    <tag k='area' v='yes' />
+    <tag k='capacity' v='for all' />
+    <tag k='name' v='community garden' />
+  </way>
 </osm>
